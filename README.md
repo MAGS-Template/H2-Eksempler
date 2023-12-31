@@ -1,5 +1,5 @@
-# ADO.NET
-Eksempler til ADO.NET - Læs mere om ADO.NET her [Notion ADO.NET](https://mercantec.notion.site/ADO-NET-3b3c18cd2eba409f824ae82c6e9d933c?pvs=4)
+# H2-Eksempler med Blazor, API & ADO.NET
+Eksempler til Blazor, API & ADO.NET - Læs mere om ADO.NET her [Notion ADO.NET](https://mercantec.notion.site/ADO-NET-3b3c18cd2eba409f824ae82c6e9d933c?pvs=4), om Blazor her [Notion Blazor](https://mercantec.notion.site/Blazor-db3407ecc592435984c8868c23d7152a?pvs=4) og API tekonologier her [Notion API](https://mercantec.notion.site/API-0436591dbbbf41f1a912c84831c6667a?pvs=4)
 Enten skal man manuelt sætte databasen op eller starte med at køre consol applikationen en gang. 
 ## Opbygning af projekt med ADO.NET
 ### ADONETConsole
