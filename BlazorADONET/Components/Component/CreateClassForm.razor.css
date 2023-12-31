@@ -1,0 +1,16 @@
+﻿h1 {
+    color: blue;
+    font-size: 29px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.className {
+    padding: 10px 20px;
+}

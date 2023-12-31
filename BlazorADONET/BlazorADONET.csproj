@@ -7,13 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Services\**" />
-    <Content Remove="Services\**" />
-    <EmbeddedResource Remove="Services\**" />
-    <None Remove="Services\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
   </ItemGroup>
 

@@ -1,0 +1,32 @@
+/* _content/RazorComponents/ClassCard.razor.rz.scp.css */
+.card[b-2ifepmeqct] {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+    .card h2[b-2ifepmeqct] {
+        color: #333;
+        font-size: 45px;
+        width: 100%;
+    }
+
+    .card .students[b-2ifepmeqct],
+    .card .teachers[b-2ifepmeqct] {
+        width: 45%;
+    }
+
+    .card ul[b-2ifepmeqct] {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .card li[b-2ifepmeqct] {
+        background-color: #eee;
+        margin: 5px 0;
+        padding: 5px;
+        display: flex;
+    }

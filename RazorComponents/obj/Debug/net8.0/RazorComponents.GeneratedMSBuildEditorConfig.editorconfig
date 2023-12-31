@@ -1,0 +1,31 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = RazorComponents
+build_property.RootNamespace = RazorComponents
+build_property.ProjectDir = C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MAGS/Documents/GitHub/H2-Eksempler/RazorComponents/CreateClassForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlQ2xhc3NGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MAGS/Documents/GitHub/H2-Eksempler/RazorComponents/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MAGS/Documents/GitHub/H2-Eksempler/RazorComponents/ClassCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2xhc3NDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-2ifepmeqct

@@ -1,3 +1,95 @@
+/* _content/BlazorADONET/Components/Component/ClassCard.razor.rz.scp.css */
+.cardHolder[b-g53aqj578x] {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap onto next line */
+}
+
+.card[b-g53aqj578x] {
+    flex-direction: column; /* Stack children vertically */
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 100%; /* Take full width of cardHolder */
+    max-width: 600px; /* But don't exceed 600px */
+    display: grid;
+}
+
+    .card h2[b-g53aqj578x] {
+        color: #333;
+        font-size: 2vw; /* Scales with viewport width */
+        width: 100%;
+    }
+
+    .card .students[b-g53aqj578x],
+    .card .teachers[b-g53aqj578x] {
+        width: 45%;
+
+    }
+
+    .card ul[b-g53aqj578x] {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .card li[b-g53aqj578x] {
+        background-color: #eee;
+        margin: 5px 0;
+        padding: 5px;
+        display: flex;
+    }
+    .card .actions[b-g53aqj578x] {
+        flex-grow: 1; /* Expand to take up remaining space */
+        display: flex; /* Make buttons stack vertically */
+        flex-direction: column; /* Stack buttons vertically */
+        justify-content: flex-end; /* Align buttons to the bottom */
+        align-self: flex-end; /* Align actions to the end of the card */
+        /* Other styles remain unchanged */
+    }
+
+    .card .Update[b-g53aqj578x] {
+        background-color: #4CAF50;
+        border: 2px solid #4CAF50;
+        color: #ffffff;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 5px 0;
+    }
+        .card .Update:hover[b-g53aqj578x] {
+            background-color: #46a04a;
+            border: 2px solid #46a04a;
+            cursor: pointer;
+        }
+    .card .Delete[b-g53aqj578x] {
+        background-color: #F44336;
+        border: 1px solid #F44336;
+        color: #ffffff;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+    }
+        .card .Delete:hover[b-g53aqj578x] {
+            background-color: #f21c0d;
+            border: 1px solid #F44336;
+        }
+/* _content/BlazorADONET/Components/Component/CreateClassForm.razor.rz.scp.css */
+h1[b-9x40baw3sb] {
+    color: blue;
+    font-size: 29px;
+}
+
+button[b-9x40baw3sb] {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.className[b-9x40baw3sb] {
+    padding: 10px 20px;
+}
 /* _content/BlazorADONET/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-ij1x7eg3z7] {
     position: relative;

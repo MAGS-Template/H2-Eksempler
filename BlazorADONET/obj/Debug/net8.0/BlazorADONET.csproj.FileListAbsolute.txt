@@ -76,3 +76,45 @@ C:\Users\MAGS\Documents\GitHub\ADO.NET\BlazorADONET\obj\Debug\net8.0\BlazorADONE
 C:\Users\MAGS\Documents\GitHub\ADO.NET\BlazorADONET\obj\Debug\net8.0\ref\BlazorADONET.dll
 C:\Users\MAGS\Documents\GitHub\ADO.NET\BlazorADONET\bin\Debug\net8.0\Domain Models.dll
 C:\Users\MAGS\Documents\GitHub\ADO.NET\BlazorADONET\bin\Debug\net8.0\Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\appsettings.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.staticwebassets.runtime.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.exe
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.deps.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.runtimeconfig.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\BlazorADONET.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\bin\Debug\net8.0\Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.csproj.AssemblyReference.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.AssemblyInfoInputs.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.AssemblyInfo.cs
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.csproj.CoreCompileInputs.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.sourcelink.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets\msbuild.BlazorADONET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorADONET.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorADONET.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorADONET.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\bundle\BlazorADONET.styles.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\projectbundle\BlazorADONET.bundle.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.csproj.CopyComplete
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\refint\BlazorADONET.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\BlazorADONET.genruntimeconfig.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\ref\BlazorADONET.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\Components\Component\ClassCard.razor.rz.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\BlazorADONET\obj\Debug\net8.0\scopedcss\Components\Component\CreateClassForm.razor.rz.scp.css

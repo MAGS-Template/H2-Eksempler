@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css",
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorADONET.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\app.css",
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

@@ -1,0 +1,27 @@
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\RazorComponents.staticwebassets.runtime.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\RazorComponents.deps.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\RazorComponents.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\RazorComponents.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.csproj.AssemblyReference.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.AssemblyInfoInputs.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.AssemblyInfo.cs
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.csproj.CoreCompileInputs.cache
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.sourcelink.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets\msbuild.RazorComponents.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets\msbuild.build.RazorComponents.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RazorComponents.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RazorComponents.props
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\scopedcss\ClassCard.razor.rz.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\scopedcss\bundle\RazorComponents.styles.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\scopedcss\projectbundle\RazorComponents.bundle.scp.css
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\refint\RazorComponents.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\ref\RazorComponents.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\bin\Debug\net8.0\Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\H2-Eksempler\RazorComponents\obj\Debug\net8.0\RazorComponents.csproj.CopyComplete

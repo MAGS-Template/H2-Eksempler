@@ -1,0 +1,29 @@
+﻿@page "/editclass/{Id:int}"
+@using Domain_Models
+@using BlazorADONET.Services
+
+@inject IDatabaseService DatabaseService
+
+<EditForm Model="@cls" OnValidSubmit="SaveChanges">
+    <h2> ClassName </h2>
+    <InputText @bind-Value="cls.ClassName" />
+    <button type="submit">Save Changes</button>
+</EditForm>
+
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+
+    private Class cls;
+
+    protected override void OnInitialized()
+    {
+        cls = DatabaseService.GetClassById(Id);
+    }
+
+    private void SaveChanges()
+    {
+        DatabaseService.UpdateClass(cls);
+    }
+}

@@ -1,0 +1,65 @@
+﻿@using Domain_Models
+@using BlazorADONET.Services
+@inject NavigationManager Navigation
+@inject IDatabaseService DatabaseService
+<div class="cardHolder">
+@if (classes == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div></div>
+    foreach (var cls in classes)
+    {
+        <div class="card">
+            <h2>@cls.ClassName</h2>
+            <div class="students">
+                <h3>Students:</h3>
+                <ul>
+                    @foreach (var student in cls.Students)
+                    {
+                        <li>@student.FirstName @student.LastName</li>
+                    }
+                </ul>
+            </div>
+            <div class="teachers">
+                <h3>Teachers:</h3>
+                <ul>
+                    @foreach (var teacher in cls.Teachers)
+                    {
+                        <li>@teacher.FirstName @teacher.LastName</li>
+                    }
+                </ul>
+            </div>
+            <div class="actions">
+                <button class="Update" @onclick="() => UpdateClass(cls)">Update</button>
+                <button class="Delete" @onclick="() => DeleteClass(cls.Id)">Delete</button>
+            </div>
+        </div>
+    }
+}
+</div>
+
+@code {
+    private List<Class> classes;
+    protected override void OnInitialized()
+    {
+        classes = DatabaseService.GetAllClassesWithStudentsAndTeachers();
+    }
+
+    private void UpdateClass(Class cls)
+    {
+        Navigation.NavigateTo($"/editclass/{cls.Id}");
+    }
+    private void UpdateClassList()
+    {
+        classes = DatabaseService.GetAllClassesWithStudentsAndTeachers();
+    }
+
+    private void DeleteClass(int id)
+    {
+        DatabaseService.DeleteClass(id);
+        classes = DatabaseService.GetAllClassesWithStudentsAndTeachers();
+    }
+}

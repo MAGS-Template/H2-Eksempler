@@ -1,0 +1,74 @@
+﻿.cardHolder {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap onto next line */
+}
+
+.card {
+    flex-direction: column; /* Stack children vertically */
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    width: 100%; /* Take full width of cardHolder */
+    max-width: 600px; /* But don't exceed 600px */
+    display: grid;
+}
+
+    .card h2 {
+        color: #333;
+        font-size: 2vw; /* Scales with viewport width */
+        width: 100%;
+    }
+
+    .card .students,
+    .card .teachers {
+        width: 45%;
+
+    }
+
+    .card ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+    .card li {
+        background-color: #eee;
+        margin: 5px 0;
+        padding: 5px;
+        display: flex;
+    }
+    .card .actions {
+        flex-grow: 1; /* Expand to take up remaining space */
+        display: flex; /* Make buttons stack vertically */
+        flex-direction: column; /* Stack buttons vertically */
+        justify-content: flex-end; /* Align buttons to the bottom */
+        align-self: flex-end; /* Align actions to the end of the card */
+        /* Other styles remain unchanged */
+    }
+
+    .card .Update {
+        background-color: #4CAF50;
+        border: 2px solid #4CAF50;
+        color: #ffffff;
+        padding: 15px 32px;
+        text-align: center;
+        font-size: 16px;
+        margin: 5px 0;
+    }
+        .card .Update:hover {
+            background-color: #46a04a;
+            border: 2px solid #46a04a;
+            cursor: pointer;
+        }
+    .card .Delete {
+        background-color: #F44336;
+        border: 1px solid #F44336;
+        color: #ffffff;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+    }
+        .card .Delete:hover {
+            background-color: #f21c0d;
+            border: 1px solid #F44336;
+        }

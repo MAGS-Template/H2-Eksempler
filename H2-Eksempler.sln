@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain Models", "Domain Mod
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D041039A-5843-483E-AB31-60F5D35AAA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor.Components", "Razor.Components\Razor.Components.csproj", "{E66220B3-03C2-4AC4-8071-F8FCAA380DC4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,10 +29,6 @@ Global
 		{BD33271E-F472-451A-B698-43A9E966E9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD33271E-F472-451A-B698-43A9E966E9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD33271E-F472-451A-B698-43A9E966E9FC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E66220B3-03C2-4AC4-8071-F8FCAA380DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E66220B3-03C2-4AC4-8071-F8FCAA380DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E66220B3-03C2-4AC4-8071-F8FCAA380DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E66220B3-03C2-4AC4-8071-F8FCAA380DC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

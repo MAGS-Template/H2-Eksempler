@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\RazorComponents\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RazorComponents.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RazorComponents.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\RazorComponents\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\RazorComponents\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RazorComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RazorComponents.props",
+      "PackagePath": "build\\RazorComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorComponents.props",
+      "PackagePath": "buildMultiTargeting\\RazorComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RazorComponents.props",
+      "PackagePath": "buildTransitive\\RazorComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

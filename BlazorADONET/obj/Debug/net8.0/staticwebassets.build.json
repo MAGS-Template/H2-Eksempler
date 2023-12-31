@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nYRF1yKxJpaF9IFqWx0ueLgEneEAfFGbCXEldYi4Gso=",
+  "Hash": "BehpmrURNjhjwEfzpZSMEpcaKsn2tNmvDTfz40etbuU=",
   "Source": "BlazorADONET",
   "BasePath": "_content/BlazorADONET",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorADONET\\wwwroot",
       "Source": "BlazorADONET",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\",
       "BasePath": "_content/BlazorADONET",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorADONET.styles.css",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorADONET.styles.css",
       "SourceId": "BlazorADONET",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "BlazorADONET.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorADONET.styles.css"
+      "OriginalItemSpec": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorADONET.styles.css"
     },
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css",
       "SourceId": "BlazorADONET",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "BlazorADONET.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\app.css",
       "SourceId": "BlazorADONET",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorADONET",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorADONET",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\favicon.png",
       "SourceId": "BlazorADONET",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\wwwroot\\",
       "BasePath": "_content/BlazorADONET",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

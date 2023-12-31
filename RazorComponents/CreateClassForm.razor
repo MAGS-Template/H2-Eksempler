@@ -1,0 +1,24 @@
+@using Domain_Models
+@using BlazorADONET.Services
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Routing
+@using Microsoft.AspNetCore.Components.Web
+
+@inject IDatabaseService DatabaseService
+
+<h1>Create Class</h1>
+
+<EditForm Model="@cls" OnValidSubmit="HandleValidSubmit">
+ <InputText id="className" @bind-value="cls.ClassName" />
+ <button type="submit">Create</button>
+</EditForm>
+
+@code {
+ private Class cls = new Class();
+
+ private void HandleValidSubmit()
+ {
+  DatabaseService.CreateClass(cls);
+  cls = new Class();
+ }
+}
