@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\ADONETConsole\\Console-ADONET.csproj",
+      "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\ADONETConsole\\Console-ADONET.csproj",
       "projectName": "Console-ADONET",
-      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\ADONETConsole\\Console-ADONET.csproj",
+      "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\ADONETConsole\\Console-ADONET.csproj",
       "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\ADONETConsole\\obj\\",
+      "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\ADONETConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

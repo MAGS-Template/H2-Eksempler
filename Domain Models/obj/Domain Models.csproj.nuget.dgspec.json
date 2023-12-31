@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\Domain Models\\Domain Models.csproj": {}
+    "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\Domain Models\\Domain Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\Domain Models\\Domain Models.csproj": {
+    "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\Domain Models\\Domain Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\Domain Models\\Domain Models.csproj",
+        "projectUniqueName": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\Domain Models\\Domain Models.csproj",
         "projectName": "Domain Models",
-        "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\Domain Models\\Domain Models.csproj",
+        "projectPath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\Domain Models\\Domain Models.csproj",
         "packagesPath": "C:\\Users\\MAGS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\Domain Models\\obj\\",
+        "outputPath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\Domain Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

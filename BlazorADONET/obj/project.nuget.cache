@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0zb31XaIh7kJm7ZYIhHvUl4Onj6+rMIG5l6oGAhPwhBQfFQzU76DvPYNxh6NHPh7VwYGx6NM0rfAIobI7Qjn0g==",
+  "dgSpecHash": "cEW/k4aZznA7tF+2lPSzBBe60CvfOMxWmvMhN/nG3BVpLznTOY9DWhTElE8OgdW0gONm3JYlTvmFDZVVYU9FQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\BlazorADONET.csproj",
+  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\H2-Eksempler\\BlazorADONET\\BlazorADONET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
