@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorADONET.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorADONET.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\BlazorADONET\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorADONET.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorADONET.props",
+      "PackagePath": "build\\BlazorADONET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorADONET.props",
+      "PackagePath": "buildMultiTargeting\\BlazorADONET.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorADONET.props",
+      "PackagePath": "buildTransitive\\BlazorADONET.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

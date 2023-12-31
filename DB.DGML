@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph Title="School Database" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+     <Node Id="Class" Label="Class" Category="Entity" />
+     <Node Id="Student" Label="Student" Category="Entity" />
+     <Node Id="Enrollment" Label="Enrollment" Category="Entity" />
+     <Node Id="Teacher" Label="Teacher" Category="Entity" />
+     <Node Id="TeacherClass" Label="TeacherClass" Category="Entity" />
+  </Nodes>
+  <Links>
+     <Link Source="Student" Target="Class" Label="Enrolls In" Category="Relation" />
+     <Link Source="Class" Target="Enrollment" Label="Has" Category="Relation" />
+     <Link Source="Teacher" Target="Class" Label="Teaches" Category="Relation" />
+     <Link Source="Class" Target="TeacherClass" Label="Has" Category="Relation" />
+  </Links>
+  <Categories>
+     <Category Id="Entity" Background="LightBlue" />
+     <Category Id="Relation" Background="LightGreen" />
+  </Categories>
+</DirectedGraph>

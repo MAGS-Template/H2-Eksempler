@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "jrQWA+5LtaGr2FJGu3LpbnAp9fckPDwlWW3Cs9v2z5xfnoOk86IlXKd2zLBgvsTh/v7cymr4Sacd9M534hT7Uw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\ADO.NET\\RazorComponents\\RazorComponents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0\\microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.0\\microsoft.aspnetcore.components.forms.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.0\\microsoft.aspnetcore.components.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.0\\microsoft.aspnetcore.metadata.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

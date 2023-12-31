@@ -1,0 +1,12 @@
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\bin\Debug\net8.0\Domain Models.deps.json
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\bin\Debug\net8.0\Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\bin\Debug\net8.0\Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.AssemblyInfoInputs.cache
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.AssemblyInfo.cs
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.csproj.CoreCompileInputs.cache
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.sourcelink.json
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\refint\Domain Models.dll
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\Domain Models.pdb
+C:\Users\MAGS\Documents\GitHub\ADO.NET\Domain Models\obj\Debug\net8.0\ref\Domain Models.dll

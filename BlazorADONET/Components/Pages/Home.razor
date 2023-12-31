@@ -1,0 +1,34 @@
+﻿@page "/"
+
+<PageTitle>ADO.NET</PageTitle>
+
+<h1>Hej og velkommen til eksempler på ADO.NET</h1>
+
+Her har I mulighed for at teste hvordan ADO.NET fungere på en lokal DB.
+I kan læse mere om ADO.NET her <a href="https://mercantec.notion.site/ADO-NET-3b3c18cd2eba409f824ae82c6e9d933c?pvs=4"> Notion </a> & <a href="https://github.com/MAGS-Template/ADO.NET/tree/main"> GitHub </a>
+<br /> <br />
+<h2 id="opbygning-af-projekt-med-ado-net">Opbygning af projekt med ADO.NET</h2>
+<h3 id="adonetconsole">ADONETConsole</h3>
+<p>Her er en consoleapp, som implementeret meget lavpraktisk. Den bruger ikke et objekt, men bare 2 strenge til at intergerer med databasen.
+Den indeholder 4 metoder udover main() og Init(). <br>
+<strong>CreateDatabase</strong> her tjekker den om ADONET databasen allerede findes på vores databaseserver eller laver den databasen. <br>
+<strong>InsertData</strong> her indsætter den værdierne som er skrevet ind for de 2 strenge inden programmet kører. <br>
+<strong>CreateTable</strong> her laver den vores tabel med en SQL commando som er gemt som en streng. <br>
+<strong>ReadData</strong> her læser den databasen ud fra SQL commando som er gemt som en streng og bruger et while loop til at skrive dem ud i konsollen. <br></p>
+<h2 id="blazoradonet">BlazorADONET</h2>
+<p>Her er en Blazor applikation som gør brug af samme database og tabel som er blevet oprettet af vores Consolapp. Derfor skal den anden applikation startes inden Blazor virker. <br>
+Under projektet er der 2 forskellige Razor pages som kommunikere med databasen. </p>
+<h3 id="crud-razor">CRUD.razor</h3>
+<p>Under den her side er alt koden indkluderet, der er normalt dårlig praksis, men det er for at vise udviklingen. Det eneste vi har seperet er at vores klasser er inde i et Class Libary kaldet Domain Models.
+Standart siden er meget simpel med 2 indput felter og en knap med en eventhandler. 
+Her indefra er der defineret 4 metoder til at håndtere hver CRUD operation. <br>
+<strong>Create</strong> bliver håndteret af <strong>InsertData()</strong><br>
+<strong>Read</strong> bliver håndteret af <strong>ReadData()</strong><br>
+<strong>Update</strong> bliver håndteret af <strong>EditData(int personID)</strong><br>
+<strong>Delete</strong> bliver håndteret af <strong>DeleteData(int personID)</strong><br></p>
+<h3 id="select-razor">Select.razor</h3>
+<p>Her er koden mere struktureret end på CRUD.razor filen. Vi har lagt alt vores database logik ind i Services mappen. Den giver en del mere konfiguering i starten af filen. <br>
+Udover at vi skal bruge &quot;using Domain_Models&quot; for at få adgang til vores Person-klasse. Skal vi også have adgang til Services mappen som vi gør med &quot;using BlazorADONET.Services&quot;. For at få adgang til vores services, skal vi også bruge dependency injection her &quot;inject IDatabaseService DatabaseService;</p>
+<p>Vores DatabaseService har 2 metoder som vi gør brug af.</p>
+<p><strong>SearchPersons(string selectedOption, string searchValue)</strong> her kan vi søge en specifik person op i vores database ud fra de kolonner som der findes i databasen. Fordi at vi bruger ADO.NET er det ikke et problem med SQL Injection.</p>
+<p><strong>GetColumnNames()</strong> her bruger vi det indbyggede [&quot;COLUMN_NAME&quot;] til at få en liste med alle kolonne værdi, så vi senere kan bruge dem i vores dropdown menu!</p>
